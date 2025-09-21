@@ -5,6 +5,12 @@ It allows users to enter text or a URL, generate a QR code instantly, and downlo
 Styled using **Tailwind CSS** for a sleek, modern UI.
 
 ---
+## View Demo 
+
+![App Preview](./preview.png)
+
+
+---
 
 ## 🚀 Features
 - ✅ Generate QR codes from text or URLs  
